@@ -1,0 +1,38 @@
+/* styles for Widget toolkit */
+#Widget {
+	
+	}
+	
+.widget_messages {
+	background-color:#DD6060;
+	padding:5px;
+	width:400px;
+	}
+
+.widget_button {
+	
+	}
+	
+.widget_input {
+	
+	}
+	
+.widget_form {
+	
+	}
+
+
+
+
+
+
+
+
+/* ============================================================
+ * ++++ CORE STYLES ++++
+ * edit at your own risk...
+============================================================ */
+.hidden { display:none; }
+.showing { display:block; }
+.small { font-size:9pt; }
+.right { float:right; }
